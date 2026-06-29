@@ -9,8 +9,7 @@ A comprehensive academic research report on common network security threats, cov
 ## 👤 Author
 
 **Muhammad Aryan Tariq**
-BS Cyber Security — Section F24-B (Roll No. 241552)
-Air University, Islamabad
+BS Cyber Security 
 
 ## 📌 Overview
 
